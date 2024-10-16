@@ -2,6 +2,4 @@
 
 Lukas_Parazitas
 
-AkenX
-
 NoName
