@@ -1,5 +1,3 @@
-# Premium-Members
-
 AkenX
 
 DemonMD
