@@ -1,1 +1,1 @@
-["AkenX", "AkenXJr", "DemonMD", "Flavia",]
+["AkenX", "AkenXJr", "DemonMD",]
